@@ -1,0 +1,228 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+}
+a:link{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.938);
+}
+a:visited{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.986);
+}
+/*  ---------------------------------------------------  Nav bar  ------------------------------------------------------------*/
+
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.685);
+    height: 80px;
+
+    font-family: 'nav';
+    color: rgb(240, 240, 240);
+    font-size: 20px;
+
+    z-index: 30;
+
+    animation-name: nav;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in;
+    animation-duration: 0.7s;
+}
+
+@keyframes nav {
+    0%{
+        top: -80px;
+    }
+    100%{
+        top: 0px;
+    }
+}
+
+#logo{
+    font-family: 'logo';
+    font-size: 35px;
+    letter-spacing: 4px;
+
+    margin-right: 700px;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+#home{
+    margin-left: 70px;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+    transition-duration: 0.3s;
+}
+#home:hover{
+    transform: rotate(360deg);
+    color: #ae9f6a;
+}
+
+#about{
+    margin-left: 70px;
+    margin-top: auto;
+    margin-bottom: auto;
+
+    transition-duration: 0.3s;
+}
+#about:hover{
+    transform: rotate(360deg);
+    color: #ae9f6a;
+}
+#project{
+    margin-left: 70px;
+    margin-top: auto;
+    margin-bottom: auto;
+
+    transition-duration: 0.3s;
+}
+#project:hover{
+    transform: rotate(360deg);
+    color: #ae9f6a;
+}
+#cv{
+    margin-left: 70px;
+    margin-top: auto;
+    margin-bottom: auto;
+
+    transition-duration: 0.3s;
+}
+#cv:hover{
+    transform: rotate(360deg);
+    color: #ae9f6a;
+}
+#contact{
+    margin-left: 70px;
+    margin-right: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+
+    transition-duration: 0.3s;
+}
+#contact:hover{
+    transform: rotate(360deg);
+    color: #ae9f6a;
+}
+
+/*  ---------------------------------------------------  INDEX  ------------------------------------------------------------*/
+
+.welcome{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+
+    height: 500px;
+    margin-top: 15px;
+
+    color: white;
+    font-family: 'text';
+
+    animation-name: welcome;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in;
+    animation-duration: 0.9s;
+}
+
+@keyframes welcome{
+    0%{
+        top: -490px;
+    }
+    100%{
+        top: 0px;
+    }
+}
+
+
+.titre h2{
+    margin-right: 475px;
+
+    font-size: 60px;
+    letter-spacing: 4px;
+}
+.titre h4{
+    margin-right: 290px;
+
+    font-size: 44px;
+    letter-spacing: 4px;
+    font-weight: bold;
+}
+.titre h1{
+    margin-bottom: 5px;
+    margin-right: 60px;
+
+    font-size: 85px;
+    letter-spacing: 4px;
+}
+
+.description p{
+    width: 800px;
+    margin-bottom: 20px;
+
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 4px;
+
+}
+
+.redirection1{
+    width: 8%;
+    height: 35px;
+    border: 0;
+    border-radius: 12px;
+    background-color: #070200d2;
+    margin-right: 200px;
+
+    cursor: pointer;
+
+    color: #eee;
+    font-size: 18px;
+
+    transition-duration: 0.6s;
+}
+
+.redirection2{
+    width: 8%;
+    height: 35px;
+    border: 0;
+    border-radius: 12px;
+    background-color: #070200d2;
+    margin-top: -35px;
+    margin-left: 200px;
+
+    cursor: pointer;
+
+    color: #eee;
+    font-size: 18px;
+
+    transition-duration: 0.6s;
+}
+
+.redirection1:hover{
+    width: 9%;
+    border-radius: 20px;
+    background-color: #070200ea;
+
+    font-size: 20px;
+
+}
+.redirection2:hover{
+    width: 9%;
+    border-radius: 20px;
+    background-color: #070200ea;
+
+    font-size: 20px;
+
+}
