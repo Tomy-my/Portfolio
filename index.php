@@ -22,7 +22,7 @@
     </div>
     <div class="description">
         <p>
-        Vous trouverez grâce à l'aide du menu ainsi qu'aux deux boutons si dessous, toutes les informations importantes me concernant. Projet web, C.V., etc..        
+        Vous trouverez grâce à l'aide du menu ainsi qu'aux deux boutons ci-dessous, toutes les informations importantes me concernant :<br> Projet web, C.V., etc..        
         </p>
     </div>
         <button type="text" class="redirection1" onclick="window.location.href = '#';">About-me</button>

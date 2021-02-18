@@ -4,7 +4,7 @@
         <meta charset="utf-8" />
         <link rel="stylesheet" href="css/fonts.css" />
         <link rel="stylesheet" href="css/styles.css" />
-        <link rel="icon" href="images/favicon.png" />
+        <link rel="icon" href="images/favicn.png" />
         <title>Portfolio : <?php echo $title; ?></title>
     </head>
         <body>
@@ -12,7 +12,7 @@
             <div id="logo">   Portfolio  </div>
             <a href="index.php" id="home"> Home </a>
             <a href="#" id="about"> About me </a>
-            <a href="#" id="project"> Projet </a>
+            <a href="project.php" id="project"> Projet </a>
             <a href="#" id="cv"> C.V </a>
             <a href="#" id="contact"> Contact </a>
         </div>
