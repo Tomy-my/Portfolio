@@ -29,15 +29,5 @@
         <button type="text" class="redirection2" onclick="window.location.href = '#';">Me contacter</button>
 </div>
 
-
-
-
-
-
-
-
-
-
-<?php
-    include('footer.php')
-?>
+</body>
+</html>
