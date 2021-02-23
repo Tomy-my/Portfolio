@@ -13,6 +13,6 @@
             <a href="index.php" id="home"> Home </a>
             <a href="#" id="about"> About me </a>
             <a href="project.php" id="project"> Projet </a>
-            <a href="#" id="cv"> C.V </a>
+            <a href="cv.php" id="cv"> C.V </a>
             <a href="#" id="contact"> Contact </a>
         </div>

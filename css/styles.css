@@ -19,6 +19,9 @@ a:visited{
 
 .footer{
     height: 30vh;
+
+    background-color: rgba(0, 0, 0, 0.90);
+
     font-family: 'nav';
 }
 
@@ -378,7 +381,10 @@ a:visited{
 
     border: solid 2px #0000008f;
 
-    background-image: url(../images/1.jpg);
+    background-image: url(../images/screen1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 
     animation-name: projet1;
     animation-iteration-count: 1;
@@ -406,7 +412,14 @@ a:visited{
     height: 100%;
     border-radius: 15px;
     background-color: rgb(0, 0, 0, 0.6);
+    
+    font-family: 'nav';
+    text-align: center;
+    letter-spacing: 2px;
+    color: rgb(255, 255, 255);
+
     opacity: 0;
+    
     transition-duration: 0.7s;
 }
 
@@ -415,7 +428,24 @@ a:visited{
 
     width: 30%;
     margin: auto;
-    padding-top: 75%;
+    padding-top: 35%;
+}
+
+.project_background_1 h1{
+    padding-top: 35px;
+}
+
+.project_background_1 h2{
+    width: 70%;
+    padding-top: 55px;
+
+    font-size: 18px;
+    letter-spacing: 4px;
+    color: #ae9f6a;
+}
+
+.project_background_1 span{
+    font-family: 'logo';
 }
 
 /* -------------------------- deuxième partie -------------------------- */
@@ -430,7 +460,10 @@ a:visited{
 
     border: solid 2px #0000008f;
 
-    background-image: url(../images/1.jpg);
+    background-image: url(../images/screen2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 
     animation-name: projet2;
     animation-iteration-count: 1;
@@ -458,14 +491,144 @@ a:visited{
     height: 100%;
     border-radius: 15px;
     background-color: rgb(0, 0, 0, 0.6);
+    
+    font-family: 'nav';
+    text-align: center;
+    letter-spacing: 2px;
+    color: rgb(255, 255, 255);
+
     opacity: 0;
+
     transition-duration: 0.7s;
- 
 }
 .project_background_2 img{
     display: block;
 
     width: 30%;
     margin: auto;
-    padding-top: 75%;
+    padding-top: 35%;
+}
+
+.project_background_2 h1{
+    padding-top: 35px;
+}
+
+.project_background_2 h2{
+    width: 80%;
+    padding-top: 55px;
+
+    font-size: 18px;
+    letter-spacing: 4px;
+    color: #ae9f6a;
+}
+
+.project_background_2 span{
+    font-family: 'logo';
+}
+
+/*  ---------------------------------------------------  C.V  ------------------------------------------------------------*/
+
+.container_cv{
+    padding-top: 1px;
+    padding-bottom: 1px;
+
+    background-color: #3c3c3ca6;
+}
+
+.little_container_cv{
+    display: flex;
+
+    width: 98%;
+    height: 800px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+
+    background-color:#40404096 ;
+}
+
+.experience{
+    width: 50%;
+    margin-left: 15px;
+
+    font-family: 'nav';
+    color: white;
+    letter-spacing: 2px;
+}
+
+.sp_1{
+    width: 1px;
+    background-color: white;
+}
+
+.tomy{
+    display: flex;
+    flex-direction: column;
+
+    width: 50%;
+
+    font-family: 'nav';
+    color: white;
+    letter-spacing: 2px;
+
+}
+
+.coordonne{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.coordonne span{
+    font-family: 'logo';
+}
+
+.coordonne h1{
+    margin-left: 190px;
+}
+
+.coordonne h3{
+    margin-top: 5px;
+    margin-left: 180px;
+}
+
+.permis{
+    width: 100px;
+    height: 56px;
+
+    background-image: url('../images/AdobeStock_374951602.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.ecole{
+    width: 100px;
+    height: 56px;
+    margin-top: -58px;
+    margin-left: 90px;
+
+    background-image: url('../images/Réseau_E2C_France_\(logo_2019\).png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.contact1-pic {
+    width: 470px;
+    margin-left: 47%;
+    margin-top: -120px;
+}
+  
+.contact1-pic img {
+    max-width: 100%;
+}
+
+.qualites{
+    margin-left: 15px;
+}
+
+.competences{
+    margin-left: 15px;
+    padding-top: 175px;
 }
