@@ -62,6 +62,7 @@
             <div class="coordonne">
                 <h1> Tomy SOTTY</h1>
                 <h3>Tomy.vdtlj<span>@</span>gmail.com</h3>
+                <h3><span>58000</span> Nevers</h3>
                 <div class="permis">
                     <div class="info_permis"> Permis B <span>✓</span></div>
                     <div class="image_permis"> </div>
@@ -76,56 +77,56 @@
                     <h1>Qualités</h1>
                     <h3>persévérance :</h3>
                     <div class="perseverance">
-                        <div class="slide_perseverance"> </div>
+                        <div class="slide_perseverance">90%</div>
                     </div>
                     <h3>Curiosité :</h3>
                     <div class="curiosite">
-                        <div class="slide_cursiosite"> </div>
+                        <div class="slide_cursiosite">80%</div>
                     </div>
-                    <h3>Minutieux :</h3>
+                    <h3>Minutie :</h3>
                     <div class="minutieux">
-                        <div class="slide_minutieux"> </div>
+                        <div class="slide_minutieux">80%</div>
                     </div>
                 </div>
                 <div class="qualites_2">
                     <h3>Logique :</h3>
                     <div class="logique">
-                        <div class="slide_logique"> </div>
+                        <div class="slide_logique">75%</div>
                     </div>
-                    <h3>Autonomme :</h3>
+                    <h3>Autonomie :</h3>
                     <div class="autonomme">
-                        <div class="slide_autonomme"> </div>
+                        <div class="slide_autonomme">70%</div>
                     </div>
-                    <h3>À l'écoute :</h3>
+                    <h3>Attentif :</h3>
                     <div class="ecoute">
-                        <div class="slide_ecoute"> </div>
+                        <div class="slide_ecoute">80%</div>
                     </div>
                 </div>
             </div>
             <div class="competences">
                 <div class="competences_1">
-                <h1>Competences</h1>
+                <h1>Compétences</h1>
                     <h3>HTML :</h3>
                     <div class="html">
-                        <div class="slide_html"> </div>
+                        <div class="slide_html">90%</div>
                     </div>
                     <h3>CSS :</h3>
                     <div class="css">
-                        <div class="slide_css"> </div>
+                        <div class="slide_css">85%</div>
                     </div>
                     <h3>JavaScript :</h3>
                     <div class="js">
-                        <div class="slide_js"> </div>
+                        <div class="slide_js">5%</div>
                     </div>
                 </div>
                 <div class="competences_2">
                     <h3>PHP :</h3>
                     <div class="php">
-                        <div class="slide_php"> </div>
+                        <div class="slide_php">20%</div>
                     </div>
                     <h3>Word :</h3>
                     <div class="word">
-                        <div class="slide_word"> </div>
+                        <div class="slide_word">75%</div>
                     </div>
                 </div>
             </div>
