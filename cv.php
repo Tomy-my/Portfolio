@@ -1,4 +1,5 @@
-<?php 
+<?php $title = "C.V"; 
+
     include('header.php')
 ?>
 
@@ -34,8 +35,8 @@
                     </div>
                     <div class="supp1">
                         <p>
-                            Dès mon arrivé on ma fait plonger dans OpenClassRoom pour comprendre les bases en <span>HTML</span> & <span>CSS</span>.
-                            <br>Ensuite j'ai du intégrer une maquette photoshop en <a href="#">site web</a> (maquette choisis par moi-même).
+                            Dès mon arrivée on m'a fait plonger dans OpenClassRoom afin de comprendre les bases du <span>HTML</span> & <span>CSS</span>.
+                            <br>Ensuite j'ai dù intégrer une maquette photoshop en <a href="#">site web</a> (maquette choisie par moi-même).
                         </p>
                     </div>
                 </div>
@@ -57,7 +58,7 @@
                     </div>
                     <div class="supp2">
                         <p>
-                            Pour mon deuxième stage, Mr. erwann Le Gall ma donné comme objectif de réaliser un blog en <span>PHP</span> avec une page de connexion 
+                            Pour mon deuxième stage, Mr. Erwann Le Gall ma donné comme objectif de réaliser un blog en <span>PHP</span> avec une page de connexion 
                             donnant accès à une page administrateur qui sert à ajouter du contenu pour allimenter mon<br> <a href="#">blog photographie</a>.
                         </p>
                     </div>
@@ -82,7 +83,7 @@
             <div class="qualites">
                 <div class="qualites_1">
                     <h1>Qualités</h1>
-                    <h3>persévérance :</h3>
+                    <h3>Persévérance :</h3>
                     <div class="perseverance">
                         <div class="slide_perseverance">90%</div>
                     </div>

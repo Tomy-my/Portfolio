@@ -1,4 +1,5 @@
-<?php 
+<?php $title = "Home"; 
+
     include('header.php')
 ?>
 
@@ -22,7 +23,7 @@
     </div>
     <div class="description">
         <p>
-        Vous trouverez grâce à l'aide du menu ainsi qu'aux deux boutons ci-dessous, toutes les informations importantes me concernant :<br> Projet web, C.V., etc..        
+        Vous trouverez à l'aide du menu ainsi qu'aux deux boutons ci-dessous, toutes les informations importantes me concernant :<br> Projet web, C.V., etc..        
         </p>
     </div>
         <button type="text" class="redirection1" onclick="window.location.href = 'project.php';">Mes projets</button>
