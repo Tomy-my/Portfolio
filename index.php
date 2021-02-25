@@ -25,8 +25,8 @@
         Vous trouverez grâce à l'aide du menu ainsi qu'aux deux boutons ci-dessous, toutes les informations importantes me concernant :<br> Projet web, C.V., etc..        
         </p>
     </div>
-        <button type="text" class="redirection1" onclick="window.location.href = '#';">Mes projets</button>
-        <button type="text" class="redirection2" onclick="window.location.href = '#';">Mon c.v</button>
+        <button type="text" class="redirection1" onclick="window.location.href = 'project.php';">Mes projets</button>
+        <button type="text" class="redirection2" onclick="window.location.href = 'cv.php';">Mon c.v</button>
 </div>
 
 </body>

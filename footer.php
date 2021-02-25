@@ -9,9 +9,9 @@
     <div class="sp">.</div>
     <div class="info_footer">
         <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit, accusamus necessitatibus illum facere 
-            repellat corrupti itaque magnam atque consequatur non exercitationem quibusdam eos voluptates voluptatum, 
-            commodi ullam numquam eligendi quae?
+           Portfolio est un site web créer par Tomy SOTTY pour but de présenter ses projet ainsi que son C.V.
+           <br>Il a aussi pour but de lettre de motivation.
+           <br>Site web créer en moins de <span>2</span> semaines afin de prouver ca motivation et son savoir faire sur les bases HTML & CSS
         </p>
     </div>
     <div class="socials">

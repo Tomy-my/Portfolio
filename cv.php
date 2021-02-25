@@ -17,52 +17,48 @@
             <h1>Mon expérience professionnelle <br>dans le<br> domaine du web</h1>
             <div class="little_exp">
                 <div class="exp1">
-                    <div class="d_i_1">
                         <div class="date1">
+                        <h3>Stage de découverte</h3>
+                        <h2>Access code school <br> <span>58 000</span> Nevers
+                        </div>
+                        <div class="info1">
                             <h3>Janv. <span>2021</span></h3>
                             <h4><span>2</span> semaines</h4>
                         </div>
-                        <div class="info1">
-                            <h3>Stage de découverte</h3>
-                            <h2>Access code school <br> <span>58 000</span> Nevers
-                        </div>
-                    </div>
                     <div class="liste1">
                         <ui>
                             <li>Programmation</li>
-                            <li>Découverte du langages HTML & CSS</li>
+                            <li>Découverte du langages <span>HTML</span> & <span>CSS</span></li>
                             <li>Intégration d'une maquette Photoshop</li>
                         </ui>
                     </div>
                     <div class="supp1">
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia, magnam molestiae placeat id 
-                            quas consequatur laborum beatae harum fuga, vitae perspiciatis. Fuga omnis, explicabo accusamus nobis ipsa sunt 
-                            odio voluptatum!
+                        <p>
+                            Dès mon arrivé on ma fait plonger dans OpenClassRoom pour comprendre les bases en <span>HTML</span> & <span>CSS</span>.
+                            <br>Ensuite j'ai du intégrer une maquette photoshop en <a href="#">site web</a> (maquette choisis par moi-même).
                         </p>
                     </div>
                 </div>
                 <div class="exp2">
-                    <div class="d_i_2">
                         <div class="date2">
-                            <h3>Févr. <span>2021</span></h3>
-                            <h4><span>2</span> semaines</h4>
-                        </div>
-                        <div class="info2">
                             <h3>Validation du projet</h3>
                             <h2>Access code school <br> <span>58 000</span> Nevers
                         </div>
-                    </div>
+                        <div class="info2">
+                            <h3>Févr. <span>2021</span></h3>
+                            <h4><span>2</span> semaines</h4>
+                        </div>
                     <div class="liste2">
                         <ui>
-                            <li>Découverte du langage PHP</li>
-                            <li>Approfondir mes bases HTML & CSS</li>
+                            <li>Découverte du langage <span>PHP</span></li>
+                            <li>Accroître les bases en <span>HTML</span> & <span>CSS</span></li>
                             <li>Développer un blog personnel</li>
                         </ui>
                     </div>
                     <div class="supp2">
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia, magnam molestiae placeat id 
-                            quas consequatur laborum beatae harum fuga, vitae perspiciatis. Fuga omnis, explicabo accusamus nobis ipsa sunt 
-                            odio voluptatum!
+                        <p>
+                            Pour mon deuxième stage, Mr. erwann Le Gall ma donné comme objectif de réaliser un blog en <span>PHP</span> avec une page de connexion 
+                            donnant accès à une page administrateur qui sert à ajouter du contenu pour allimenter mon<br> <a href="#">blog photographie</a>.
                         </p>
                     </div>
                 </div>
@@ -73,7 +69,7 @@
             <div class="coordonne">
                 <h1> Tomy SOTTY</h1>
                 <h3>Tomy.vdtlj<span>@</span>gmail.com</h3>
-                <h3><span>58000</span> Nevers</h3>
+                <h3><span>58 000</span> Nevers</h3>
                 <div class="permis">
                     <div class="info_permis"> Permis B <span>✓</span></div>
                     <div class="image_permis"> </div>
